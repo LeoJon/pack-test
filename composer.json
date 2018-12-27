@@ -1,0 +1,12 @@
+{
+    "name": "pack/test",
+    "type": "labrary",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Pack\\Test\\": "src/"
+        }
+    },
+    "require": {}
+}
